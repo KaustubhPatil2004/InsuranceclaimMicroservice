@@ -21,10 +21,10 @@ Database persistence using MySQL
 🧱 Microservices Architecture
 InsuranceClaimMicroservice
 │
-├── create-claim-service
-├── process-claim-service
-├── track-claim-service
-└── database-service
+├──> create-claim-service
+├──>process-claim-service
+├──>track-claim-service
+└──>database-service
 
 
 Each microservice:
