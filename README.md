@@ -60,6 +60,8 @@ Postman
 
 Git & GitHub
 
+
+
 🧠 Architecture Flow
 Client (Postman / Frontend)
         ↓
@@ -70,6 +72,8 @@ Process Claim Service
 Track Claim Service
         ↓
 Database (MySQL)
+
+
 
 📂 Project Structure
 src/main/java
@@ -160,9 +164,6 @@ Frontend Integration
 👨‍💻 Author
 
 Kaustubh Patil
-📌 Computer Science / IT Student
+📌 Computer Science / CS Student
 🔗 GitHub: https://github.com/KaustubhPatil2004
 
-⭐ Support
-
-If you like this project, don’t forget to ⭐ the repository!
